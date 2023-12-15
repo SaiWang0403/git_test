@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 count=9
-=======
-count=8
->>>>>>> 6c18a4bd654ad52eafeaf71bd69460951cb3c3b4
+
+
 
 
